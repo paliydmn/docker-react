@@ -14,7 +14,7 @@ How are you?
 - Hi,i'm fine!
  </p>
 
-<h2>Feature is added</h2>
+<h2>Feature is added!</h2>
       </header>
     </div>
   );
